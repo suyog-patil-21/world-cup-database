@@ -34,3 +34,5 @@ chmod +x insert_data.sh queries.sh
 ls --color=auto -ali
 ./insert_data.sh
 ./queries.sh
+git status
+git add .
